@@ -15,5 +15,5 @@ It includes a front-end form for collecting payment details, a back-end script f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anjaligupta02/Stripe-Payment-Integration.git
+https://github.com/anjaligupta02/Stripe-Payment-Integration.git
 cd Stripe-Payment-Integration
